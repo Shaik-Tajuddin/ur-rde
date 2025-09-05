@@ -1,5 +1,5 @@
 mountpoints:
   /:
-    url: "https://author-p149251-e1765224.adobeaemcloud.com/bin/franklin.delivery/shaik-tajuddin/ue-rde/main"
+    url: "https://author-p149251-e1765224.adobeaemcloud.com/bin/franklin.delivery/shaik-tajuddin/ur-rde/main"
     type: "markup"
     suffix: ".html"
