@@ -238,6 +238,13 @@
     "id": "teaser",
     "fields": [
       {
+        "component": "text",
+        "name": "foreground_pretitle",
+        "value": "",
+        "label": "Pre title",
+        "valueType": "string"
+      },
+      {
         "component": "reference",
         "valueType": "string",
         "name": "background_image",
@@ -246,16 +253,9 @@
       },
       {
         "component": "text",
-        "name": "background_imageAlt",
+        "name": "background_imageTitle",
         "value": "",
         "label": "Image Alt",
-        "valueType": "string"
-      },
-      {
-        "component": "text",
-        "name": "foreground_pretitle",
-        "value": "",
-        "label": "Pre title",
         "valueType": "string"
       },
       {
