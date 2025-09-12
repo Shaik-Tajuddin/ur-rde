@@ -246,7 +246,7 @@
       },
       {
         "component": "text",
-        "name": "background_imageTitle",
+        "name": "background_imageAlt",
         "value": "",
         "label": "Image Alt",
         "valueType": "string"
